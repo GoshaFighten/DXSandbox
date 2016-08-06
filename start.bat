@@ -1,0 +1,2 @@
+call code .
+npm start
