@@ -3,6 +3,7 @@
 git clone https://github.com/GoshaFighten/DXSandbox myFolder
 cd myFolder
 rd .git /S/Q
+del .gitignore README.md src\.gitignore
 npm install
 npm start
 ```
