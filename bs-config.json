@@ -4,7 +4,7 @@
         "./src/**/*.{html,css,js}"
     ],
     "server": {
-        "baseDir": "./src"
+        "baseDir": "."
     },
     "browser": "chrome"
 }
