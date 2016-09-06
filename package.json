@@ -1,11 +1,12 @@
 {
-    "name": "DXSandbox",
-    "version": "1.0.0",
-    "scripts": {
-        "start": "npm run lite",
-        "lite": "lite-server -c ./bs-config.json"
-    },
-    "devDependencies": {
-        "lite-server": "^2.2.2"
-    }
+  "name": "dx-sandbox",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server -c ./bs-config.json"
+  },
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "lite-server": "^2.2.2"
+  }
 }
